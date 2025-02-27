@@ -1,0 +1,17 @@
+D:\Programador-Alexsandro\FormsLogin\bin\Debug\net8.0-windows\FormsLogin.exe
+D:\Programador-Alexsandro\FormsLogin\bin\Debug\net8.0-windows\FormsLogin.deps.json
+D:\Programador-Alexsandro\FormsLogin\bin\Debug\net8.0-windows\FormsLogin.runtimeconfig.json
+D:\Programador-Alexsandro\FormsLogin\bin\Debug\net8.0-windows\FormsLogin.dll
+D:\Programador-Alexsandro\FormsLogin\bin\Debug\net8.0-windows\FormsLogin.pdb
+D:\Programador-Alexsandro\FormsLogin\obj\Debug\net8.0-windows\FormsLogin.Form1.resources
+D:\Programador-Alexsandro\FormsLogin\obj\Debug\net8.0-windows\FormsLogin.Properties.Resources.resources
+D:\Programador-Alexsandro\FormsLogin\obj\Debug\net8.0-windows\FormsLogin.csproj.GenerateResource.cache
+D:\Programador-Alexsandro\FormsLogin\obj\Debug\net8.0-windows\FormsLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programador-Alexsandro\FormsLogin\obj\Debug\net8.0-windows\FormsLogin.AssemblyInfoInputs.cache
+D:\Programador-Alexsandro\FormsLogin\obj\Debug\net8.0-windows\FormsLogin.AssemblyInfo.cs
+D:\Programador-Alexsandro\FormsLogin\obj\Debug\net8.0-windows\FormsLogin.csproj.CoreCompileInputs.cache
+D:\Programador-Alexsandro\FormsLogin\obj\Debug\net8.0-windows\FormsLogin.dll
+D:\Programador-Alexsandro\FormsLogin\obj\Debug\net8.0-windows\refint\FormsLogin.dll
+D:\Programador-Alexsandro\FormsLogin\obj\Debug\net8.0-windows\FormsLogin.pdb
+D:\Programador-Alexsandro\FormsLogin\obj\Debug\net8.0-windows\FormsLogin.genruntimeconfig.cache
+D:\Programador-Alexsandro\FormsLogin\obj\Debug\net8.0-windows\ref\FormsLogin.dll
