@@ -1,0 +1,14 @@
+loop de igualdade entre posições
+o login só será realizado quando o resultado for true
+
+Loop percorrer até que o primeiro loop seja verdadeiro
+
+identificar variaveis
+o valor armazenado no usuario de input deve ser exatamente igual á posição correta do array(3)
+sempre que houver interação de valores nos requerimentos, use operações em valores armazenados em variaveis
+
+
+
+Us
+
+
