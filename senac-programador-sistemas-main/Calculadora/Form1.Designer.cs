@@ -86,6 +86,7 @@
             // Result
             // 
             Result.BackColor = Color.AntiqueWhite;
+            Result.Enabled = false;
             Result.Location = new Point(162, 75);
             Result.Name = "Result";
             Result.Size = new Size(39, 23);

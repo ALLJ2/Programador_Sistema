@@ -19,13 +19,61 @@ namespace Calculadora
 
         private void Form2_Load(object sender, EventArgs e)
         {
+            int num1 = Convert.ToInt32(txtNum1.Text);
+            int num2 = Convert.ToInt32(txtNum2.Text);
 
         }
+
+        private static double Somar(int num1, int num2)
+        {
+            return num1 + num2;
+        }
+
+        private static double Subtrair(int num1, int num2)
+        {
+            return num1 - num2;
+        }
+
+        private static double Vezes(int num1, int num2)
+        {
+            return num1 * num2;
+        }
+
+        private static double Dividir(int num1, int num2)
+        {
+            return num1 / num2;
+        }
+
 
         private void lblVoltar_Click(object sender, EventArgs e)
         {
             new Form1().Show();
             this.Hide();
+        }
+
+        private void SelectAdd_CheckedChanged(object sender, EventArgs e)
+        {
+
+
+            lblCalculo.Text = "+";
+        }
+
+        private void SelectSub_CheckedChanged(object sender, EventArgs e)
+        {
+
+            lblCalculo.Text = "-";
+        }
+
+        private void SelectMulti_CheckedChanged(object sender, EventArgs e)
+        {
+
+            lblCalculo.Text = "x";
+        }
+
+        private void SelectDiv_CheckedChanged(object sender, EventArgs e)
+        {
+
+            lblCalculo.Text = "/";
         }
     }
 }
