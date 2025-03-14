@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculador_de_quadrilateros_e_esferas", "Calculador_de_quadrilateros_e_esferas.csproj", "{8BAB5A44-304B-44BA-B620-4D9FE81ED1F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BAB5A44-304B-44BA-B620-4D9FE81ED1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BAB5A44-304B-44BA-B620-4D9FE81ED1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BAB5A44-304B-44BA-B620-4D9FE81ED1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BAB5A44-304B-44BA-B620-4D9FE81ED1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D1198C8-94B8-42DF-83D4-5CFD1E3ACE3F}
+	EndGlobalSection
+EndGlobal
