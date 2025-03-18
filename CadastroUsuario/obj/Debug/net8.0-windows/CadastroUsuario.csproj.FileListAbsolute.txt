@@ -1,0 +1,17 @@
+D:\Programador-Alexsandro\CadastroUsuario\obj\Debug\net8.0-windows\CadastroUsuario.Form1.resources
+D:\Programador-Alexsandro\CadastroUsuario\obj\Debug\net8.0-windows\CadastroUsuario.csproj.GenerateResource.cache
+D:\Programador-Alexsandro\CadastroUsuario\obj\Debug\net8.0-windows\CadastroUsuario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programador-Alexsandro\CadastroUsuario\obj\Debug\net8.0-windows\CadastroUsuario.AssemblyInfoInputs.cache
+D:\Programador-Alexsandro\CadastroUsuario\obj\Debug\net8.0-windows\CadastroUsuario.AssemblyInfo.cs
+D:\Programador-Alexsandro\CadastroUsuario\obj\Debug\net8.0-windows\CadastroUsuario.csproj.CoreCompileInputs.cache
+D:\Programador-Alexsandro\CadastroUsuario\obj\Debug\net8.0-windows\CadastroUsuario.sourcelink.json
+D:\Programador-Alexsandro\CadastroUsuario\bin\Debug\net8.0-windows\CadastroUsuario.exe
+D:\Programador-Alexsandro\CadastroUsuario\bin\Debug\net8.0-windows\CadastroUsuario.deps.json
+D:\Programador-Alexsandro\CadastroUsuario\bin\Debug\net8.0-windows\CadastroUsuario.runtimeconfig.json
+D:\Programador-Alexsandro\CadastroUsuario\bin\Debug\net8.0-windows\CadastroUsuario.dll
+D:\Programador-Alexsandro\CadastroUsuario\bin\Debug\net8.0-windows\CadastroUsuario.pdb
+D:\Programador-Alexsandro\CadastroUsuario\obj\Debug\net8.0-windows\CadastroUsuario.dll
+D:\Programador-Alexsandro\CadastroUsuario\obj\Debug\net8.0-windows\refint\CadastroUsuario.dll
+D:\Programador-Alexsandro\CadastroUsuario\obj\Debug\net8.0-windows\CadastroUsuario.pdb
+D:\Programador-Alexsandro\CadastroUsuario\obj\Debug\net8.0-windows\CadastroUsuario.genruntimeconfig.cache
+D:\Programador-Alexsandro\CadastroUsuario\obj\Debug\net8.0-windows\ref\CadastroUsuario.dll
