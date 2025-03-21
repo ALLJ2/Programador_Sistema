@@ -13,11 +13,11 @@ namespace CadastroUsuario
         public string DataNascimento { get; set; }
         public string Telefone { get; set; }
         public string Email { get; set; }
-        EnderecoCliente Endereco { get; set; }
-        GeneroCliente Genero { get; set; }
-        Etnia Etnia {get; set;}
+        public EnderecoCliente Endereco { get; set; }
+        public GeneroCliente Genero { get; set; }
+       public Etnia Etnia {get; set;}
         public string NomeSocial { get; set; }
         public bool Estrangeiro { get; set; }
-        TipoCliente TipoCliente { get; set; }
+        public TipoCliente TipoCliente { get; set; }
     }
 }
