@@ -377,7 +377,7 @@
             // lblErro
             // 
             lblErro.AutoSize = true;
-            lblErro.Location = new Point(449, 260);
+            lblErro.Location = new Point(149, 274);
             lblErro.Name = "lblErro";
             lblErro.Size = new Size(22, 15);
             lblErro.TabIndex = 0;

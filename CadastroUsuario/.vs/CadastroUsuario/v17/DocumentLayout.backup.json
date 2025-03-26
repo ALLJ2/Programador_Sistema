@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Programador-Alexsandro\\CadastroUsuario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|D:\\Programador-Alexsandro\\CadastroUsuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|d:\\programador-alexsandro\\cadastrousuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|D:\\Programador-Alexsandro\\CadastroUsuario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|d:\\programador-alexsandro\\cadastrousuario\\etnia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +19,16 @@
       "RelativeMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|solutionrelative:generocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|d:\\programador-alexsandro\\cadastrousuario\\enderecocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|solutionrelative:enderecocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|d:\\programador-alexsandro\\cadastrousuario\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|d:\\programador-alexsandro\\cadastrousuario\\tipocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|solutionrelative:tipocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|d:\\programador-alexsandro\\cadastrousuario\\enderecocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34D22846-AB58-4183-853E-EAE41AA7EC04}|CadastroUsuario.csproj|solutionrelative:enderecocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Programador-Alexsandro\\CadastroUsuario\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Programador-Alexsandro\\CadastroUsuario\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwEIAAAANAAAAAAAAAA==",
+              "ToolTip": "D:\\Programador-Alexsandro\\CadastroUsuario\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwEkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T00:24:30.528Z",
               "EditorCaption": ""
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
               "DocumentMoniker": "D:\\Programador-Alexsandro\\CadastroUsuario\\Cliente.cs",
               "RelativeDocumentMoniker": "Cliente.cs",
@@ -97,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TipoCliente.cs",
               "DocumentMoniker": "D:\\Programador-Alexsandro\\CadastroUsuario\\TipoCliente.cs",
               "RelativeDocumentMoniker": "TipoCliente.cs",
@@ -109,24 +109,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "EnderecoCliente.cs",
               "DocumentMoniker": "D:\\Programador-Alexsandro\\CadastroUsuario\\EnderecoCliente.cs",
               "RelativeDocumentMoniker": "EnderecoCliente.cs",
               "ToolTip": "D:\\Programador-Alexsandro\\CadastroUsuario\\EnderecoCliente.cs",
               "RelativeToolTip": "EnderecoCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T22:31:29.41Z"
+              "WhenOpened": "2025-03-17T22:31:29.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "D:\\Programador-Alexsandro\\CadastroUsuario\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Programador-Alexsandro\\CadastroUsuario\\Form1.cs [Projeto]*",
-              "RelativeToolTip": "Form1.cs [Projeto]*",
+              "ToolTip": "D:\\Programador-Alexsandro\\CadastroUsuario\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T22:26:08.173Z",
               "EditorCaption": " [Projeto]"
